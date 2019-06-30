@@ -7,10 +7,10 @@ Template: Freemarker.
 JS & CSS: bootstrap
 
 ## Home Page
-[!](example_page/HOME.png)
+![](example_page/HOME.png)
 
 ## Login Page
-[!](example_page/SIGNIN.png)
+![](example_page/SIGNIN.png)
 
 ## Registration Page
-[!](example_page/SIGNUP.png)
+![](example_page/SIGNUP.png)
