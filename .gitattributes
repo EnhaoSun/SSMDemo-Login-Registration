@@ -1,2 +1,2 @@
-*.js linguist-language=Java
-*.css linguist-language=Java
+SSMDemo/src/main/webapp/* linguist-vendored
+SSMDemo/target/* linguist-vendored
